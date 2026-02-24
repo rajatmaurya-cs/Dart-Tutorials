@@ -25,12 +25,19 @@
 //   }
 // }
 
-import 'Person.dart';
 
-void main() {
-  Person p1 = Person("Rajat", 16);
 
-  p1.setCity = "UttaraKhand";
 
-  print(p1.getCity());
-}
+//✅
+
+// import 'Person.dart';
+
+// void main() {
+//   Person p1 = Person("Rajat", 16);
+
+//   p1.setCity = "UttaraKhand";
+
+//   print(p1.getCity);
+// }
+
+
