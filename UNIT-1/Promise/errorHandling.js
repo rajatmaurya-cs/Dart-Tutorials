@@ -1,7 +1,7 @@
 const promiseOne =new Promise(function(resolve , reject){
     let error = true ;
     if(!error){
-        resolve({username : "Rajat" , id : 123})
+        resolve({username : "Rajat" , id : 459})
     }
     else{
         reject ("some thing went wrong")
